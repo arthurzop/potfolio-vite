@@ -36,7 +36,7 @@ export default function App() {
       <section className="mt-36 grid gap-24 w-full items-center justify-center text-center content-center">
         <div className="grid items-center gap-10">
           <img src="../public/eu.png" className="size-60 place-self-center" />
-          <h1 className="font-bold text-2xl">artur medeiros</h1>
+          <h1 className="font-bold text-4xl">artur medeiros</h1>
           <h2 className="text-lg">
             i'm 20 years old, from são paulo, brazil. <br />
             currently in the third semmester of system analysis at senai suiço brasileira <br />
@@ -44,32 +44,36 @@ export default function App() {
           </h2>
         </div>
         <div className="grid w-full gap-10">
-          <h1 className="font-bold text-2xl">hard skills</h1>
+          <h1 className="font-bold text-4xl">hard skills</h1>
           <div className="flex gap-10 justify-center">
             <div className="">
               <h2 className="">Html</h2>
 
             </div>
             <div className="">
-              <h2 className="">Html</h2>
+              <h2 className="">Css</h2>
 
             </div>
             <div className="">
-              <h2 className="">Html</h2>
+              <h2 className="">React</h2>
+
+            </div>
+            <div className="">
+              <h2 className="">Github</h2>
 
             </div>
           </div>
           <div className="flex gap-10 justify-center">
             <div className="">
-              <h2 className="">Html</h2>
+              <h2 className="">JavaScript</h2>
 
             </div>
             <div className="">
-              <h2 className="">Html</h2>
+              <h2 className="">React Native</h2>
 
             </div>
             <div className="">
-              <h2 className="">Html</h2>
+              <h2 className="">Figma</h2>
 
             </div>
           </div>
